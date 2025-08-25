@@ -1,0 +1,1 @@
+This notebook demonstrates a machine learning approach to detect fraudulent transactions using a Random Forest classifier. The project involves feature engineering, model training, and evaluation to build an effective fraud detection system.
